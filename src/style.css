@@ -1,0 +1,27 @@
+.batteam {
+
+    padding: 10px;
+    color: white;
+    background: black;
+
+}
+
+
+.back{
+    background: #ecebeb;
+    
+}
+
+.hover{
+    cursor: pointer
+}
+
+.hover:hover{
+    color: blue
+    
+}
+
+.status{
+    color:red;
+    
+}
